@@ -53,6 +53,7 @@ movie-this.....caddyshack...
 
 
 do-what-it-says-movie-this.....terminator...
+random.txt file is included in top half of screenshot
 
 ![imagecapture](images/do-what-it-says_movie-this_terminator.PNG)
 
