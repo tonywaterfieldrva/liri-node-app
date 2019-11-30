@@ -37,24 +37,24 @@ concert-this ...............
 
 spotify-this-song .....freebird.....
 
-![imagecapture](spotify-this-song_freebird.PNG)
+![imagecapture](images/spotify-this-song_freebird.PNG)
 
 spotify-this-song .....stairway to heaven.....
 
-![imagecapture](spotify-this-song_stairway to heaven.PNG)
+![imagecapture](images/spotify-this-song_stairway to heaven.PNG)
 
 movie-this......predator...
 
-![imagecapture](movie-this_predator.PNG)
+![imagecapture](images/movie-this_predator.PNG)
 
 movie-this.....caddyshack...
 
-![imagecapture](movie-this_caddyshack.PNG)
+![imagecapture](images/movie-this_caddyshack.PNG)
 
 
 do-what-it-says-movie-this.....terminator...
 
-![imagecapture](movie-this_predator.PNG)
+![imagecapture](images/movie-this_predator.PNG)
 
 
 
