@@ -54,7 +54,7 @@ movie-this.....caddyshack...
 
 do-what-it-says-movie-this.....terminator...
 
-![imagecapture](images/movie-this_predator.PNG)
+![imagecapture](images/do-what-it-says_movie-this_terminator.PNG)
 
 
 

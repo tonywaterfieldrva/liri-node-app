@@ -112,12 +112,12 @@ function spotifySong(songName){
         console.log(queryURL); 
     
         axios.get(queryURL).then(
-              function(bandResponse){
+              function(bandResponse) {
                 // console.log("----------------------------");
                 // console.log("Venue: " + bandResponse.data[0].venue.name);
                 // console.log("City: " + bandResponse.data[0].venue.city);
                 // console.log(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
-                console.log(bandResponse);    
+                // console.log(bandResponse)    
             }
         );
     };  
