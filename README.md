@@ -41,7 +41,7 @@ spotify-this-song .....freebird.....
 
 spotify-this-song .....stairway to heaven.....
 
-![imagecapture](images/spotify-this-song_stairway to heaven.PNG)
+![imagecapture](images/spotify-this-song_stairway_to_heaven.PNG)
 
 movie-this......predator...
 
@@ -55,13 +55,4 @@ movie-this.....caddyshack...
 do-what-it-says-movie-this.....terminator...
 
 ![imagecapture](images/do-what-it-says_movie-this_terminator.PNG)
-
-
-
-
-
-
-
-
-![imagecapture](images/successful_order2.PNG)
 
